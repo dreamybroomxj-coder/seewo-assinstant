@@ -1,7 +1,7 @@
 import requests
 import matplotlib.pyplot as plt
 
-url = "https://devapi.qweather.com/v7/weather/24h?location=101280107&key=ef4079fe8151415ba4621f8f9353c73e"
+url = "https://devapi.qweather.com/v7/weather/24h?location=101280107&key=哈基米"
 
 
 def weather():
