@@ -1,0 +1,126 @@
+越秀
+101280107
+https://devapi.qweather.com/v7/weather/24h?location=101280107&key=ef4079fe8151415ba4621f8f9353c73e
+
+
+{"code":"200","location":[{"name":"广州","id":"101280101","lat":"23.12518","lon":"113.28064","adm2":"广州","adm1":"广东省","country":"中国","tz":"Asia/Shanghai","utcOffset":"+08:00","isDst":"0","type":"city","rank":"11","fxLink":"https://www.qweather.com/weather/guangzhou-101280101.html"},{"name":"增城","id":"101280104","lat":"23.29050","lon":"113.82958","adm2":"广州","adm1":"广东省","country":"中国","tz":"Asia/Shanghai","utcOffset":"+08:00","isDst":"0","type":"city","rank":"23","fxLink":"https://www.qweather.com/weather/zengcheng-101280104.html"},{"name":"白云","id":"101280110","lat":"23.16228","lon":"113.26283","adm2":"广州","adm1":"广东省","country":"中国","tz":"Asia/Shanghai","utcOffset":"+08:00","isDst":"0","type":"city","rank":"25","fxLink":"https://www.qweather.com/weather/baiyun-101280110.html"},{"name":"越秀","id":"101280107","lat":"23.12562","lon":"113.28072","adm2":"广州","adm1":"广东省","country":"中国","tz":"Asia/Shanghai","utcOffset":"+08:00","isDst":"0","type":"city","rank":"25","fxLink":"https://www.qweather.com/weather/yuexiu-101280107.html"},{"name":"番禺","id":"101280102","lat":"22.93858","lon":"113.36462","adm2":"广州","adm1":"广东省","country":"中国","tz":"Asia/Shanghai","utcOffset":"+08:00","isDst":"0","type":"city","rank":"25","fxLink":"https://www.qweather.com/weather/panyu-101280102.html"},{"name":"海珠","id":"101280108","lat":"23.08400","lon":"113.31741","adm2":"广州","adm1":"广东省","country":"中国","tz":"Asia/Shanghai","utcOffset":"+08:00","isDst":"0","type":"city","rank":"25","fxLink":"https://www.qweather.com/weather/haizhu-101280108.html"},{"name":"天河","id":"101280109","lat":"23.13559","lon":"113.33537","adm2":"广州","adm1":"广东省","country":"中国","tz":"Asia/Shanghai","utcOffset":"+08:00","isDst":"0","type":"city","rank":"25","fxLink":"https://www.qweather.com/weather/tianhe-101280109.html"},{"name":"花都","id":"101280105","lat":"23.39205","lon":"113.21118","adm2":"广州","adm1":"广东省","country":"中国","tz":"Asia/Shanghai","utcOffset":"+08:00","isDst":"0","type":"city","rank":"25","fxLink":"https://www.qweather.com/weather/huadu-101280105.html"},{"name":"从化","id":"101280103","lat":"23.54528","lon":"113.58739","adm2":"广州","adm1":"广东省","country":"中国","tz":"Asia/Shanghai","utcOffset":"+08:00","isDst":"0","type":"city","rank":"35","fxLink":"https://www.qweather.com/weather/conghua-101280103.html"},{"name":"黄埔","id":"101280111","lat":"23.18136","lon":"113.48061","adm2":"广州","adm1":"广东省","country":"中国","tz":"Asia/Shanghai","utcOffset":"+08:00","isDst":"0","type":"city","rank":"35","fxLink":"https://www.qweather.com/weather/huangpu-101280111.html"}],"refer":{"sources":["QWeather"],"license":["QWeather Developers License"]}}
+
+2023-08-27 21:00
+温度: 27°C      
+天气: 多云      
+降水概率: 7%    
+
+2023-08-27 22:00
+温度: 27°C      
+天气: 多云      
+降水概率: 7%    
+
+2023-08-27 23:00
+温度: 27°C      
+天气: 多云      
+降水概率: 7%    
+
+2023-08-28 00:00
+温度: 26°C      
+天气: 多云      
+降水概率: 11%   
+
+2023-08-28 01:00
+温度: 26°C
+天气: 多云
+降水概率: 43%
+
+2023-08-28 02:00
+温度: 25°C
+天气: 多云
+降水概率: 47%
+
+2023-08-28 03:00
+温度: 25°C
+天气: 雷阵雨
+降水概率: 51%
+
+2023-08-28 04:00
+温度: 25°C
+天气: 雷阵雨
+降水概率: 51%
+
+2023-08-28 05:00
+温度: 26°C
+天气: 多云
+降水概率: 47%
+
+2023-08-28 06:00
+温度: 26°C
+天气: 多云
+降水概率: 49%
+
+2023-08-28 07:00
+温度: 27°C
+天气: 小雨
+降水概率: 56%
+
+2023-08-28 08:00
+温度: 27°C
+天气: 多云
+降水概率: 49%
+
+2023-08-28 09:00
+温度: 28°C
+天气: 多云
+降水概率: 49%
+
+2023-08-28 10:00
+温度: 29°C
+天气: 小雨
+降水概率: 51%
+
+2023-08-28 11:00
+温度: 30°C
+天气: 多云
+降水概率: 47%
+
+2023-08-28 12:00
+温度: 31°C
+天气: 多云
+降水概率: 36%
+
+2023-08-28 13:00
+温度: 31°C
+天气: 多云
+降水概率: 20%
+
+2023-08-28 14:00
+温度: 33°C
+天气: 多云
+降水概率: 20%
+
+2023-08-28 15:00
+温度: 32°C
+天气: 多云
+降水概率: 20%
+
+2023-08-28 16:00
+温度: 31°C
+天气: 多云
+降水概率: 20%
+
+2023-08-28 17:00
+温度: 30°C
+天气: 多云
+降水概率: 20%
+
+2023-08-28 18:00
+温度: 29°C
+天气: 多云
+降水概率: 25%
+
+2023-08-28 19:00
+温度: 29°C
+天气: 多云
+降水概率: 43%
+
+2023-08-28 20:00
+温度: 28°C
+天气: 多云
+降水概率: 47%
